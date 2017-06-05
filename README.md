@@ -14,7 +14,7 @@ Uncover ways of conducting exploratory and innovative work and helping others do
 
 | Agile.X | Agile |
 | ---| ---|
-| |Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.|
+| |Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.  |
 | |Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.|
 | |Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.|
 | |Business people and developers must work together daily throughout the project.|
