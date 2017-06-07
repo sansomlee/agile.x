@@ -27,3 +27,10 @@ Uncover ways of conducting exploratory and innovative work and helping others do
 |Simplicity--the art of maximizing the amount of work not done--is essential.|Simplicity--the art of maximizing the amount of work not done--is essential.|
 | |The best architectures, requirements, and designs emerge from self-organizing teams.|
 |At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.|At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.|
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
